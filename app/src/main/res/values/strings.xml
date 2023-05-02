@@ -1,0 +1,53 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Student</string>
+    <string name="bold" tools:ignore="ReferenceType">@font/latobold</string>
+    <string name="regular" tools:ignore="ReferenceType">@font/lato_regular</string>
+    <string name="light" tools:ignore="ReferenceType">@font/lato_light</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="start">Start</string>
+    <string name="close">Close</string>
+    <string name="about_college">The Department of Computer Engineering was established in July 2008. The department offers a 4 (four) year course, in B. Tech. Computer Science &amp; Engineering. Computer Sc. &amp; Engineering is the most sought-after branch for the JEE / UPTU selected students that come to the Institute. Our graduates have distinguished themselves in higher studies at the top Universities. They also occupy positions of eminence in the computer industry.</string>
+    <string name="about_hodMsg">It is gratifying for me to be a part of this institution and it gives me pleasure in welcoming on behalf of entire campus of Kamla Nehru Group of Institutions, the new entrants to this institution. With the quest of knowledge and with a mission to empower the students in becoming excellent human resource and contribute meaningfully to the nation, KNGI was established by Sri K.N. Singh. It offers a wide range of educational programme in the field of engineering and technology.</string>
+    <string name="collegeName">KNIPSS Engineering Institute</string>
+    <string name="address">NH-96 Faizabad –Allahabad Faizabad Road
+Faridipur Sultanpur India 228118</string>
+
+<!-- All Layout XML String   -->
+
+                    <!-- Developer XML   -->
+
+    <string name="DevTitle">Designed and Developed By</string>
+    <string name="DevName">Ritik Mishra CSE (2019-23)</string>
+    <string name="WelcomeNotes">Special Thanks to:</string>
+    <string name="HodName">Mr. SANJAY KUMAR SONKAR(HOD CSE Department).</string>
+    <string name="FacName">All CSE Department.</string>
+    <string name="ContactTitle">Contact Developer</string>
+
+
+                    <!--    Menu navigation_drawer-->
+    <string name="videoLectures">Video Lectures</string>
+    <string name="Notes_Assignments">Notes/Assignments</string>
+    <string name="Quantum_Series">Quantum Series</string>
+    <string name="AKTU_ERP">AKTU ERP</string>
+    <string name="AKTU_Result">AKTU Result</string>
+    <string name="Themes">Themes</string>
+    <string name="Website">Website</string>
+    <string name="Share">Share</string>
+    <string name="Rate_Us">Rate Us</string>
+    <string name="Developer">Developer</string>
+
+    <!--    Menu bottom_navigation-->
+    <string name="Home">Home</string>
+    <string name="Notice">Notice</string>
+    <string name="Faculty">Faculty</string>
+    <string name="Gallery">Gallery</string>
+    <string name="About">About</string>
+
+
+    <string-array name="theme">
+        <item>System Default</item>
+        <item>Dark</item>
+        <item>Light</item>
+    </string-array>
+</resources>

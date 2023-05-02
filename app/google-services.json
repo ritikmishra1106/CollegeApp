@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1006176789729",
+    "firebase_url": "https://knipss-app-default-rtdb.firebaseio.com",
+    "project_id": "knipss-app",
+    "storage_bucket": "knipss-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006176789729:android:66730530e95e4a69adc3a0",
+        "android_client_info": {
+          "package_name": "com.ritik.admincollegeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1006176789729-3ftppl9u1ogm3iomptit68l263cicqun.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtlqcseuqsAFSP7zK4Lpjk8diRQLtMbZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1006176789729-3ftppl9u1ogm3iomptit68l263cicqun.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006176789729:android:eb0c277e1b933afaadc3a0",
+        "android_client_info": {
+          "package_name": "com.ritik.collegeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1006176789729-3ftppl9u1ogm3iomptit68l263cicqun.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtlqcseuqsAFSP7zK4Lpjk8diRQLtMbZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1006176789729-3ftppl9u1ogm3iomptit68l263cicqun.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

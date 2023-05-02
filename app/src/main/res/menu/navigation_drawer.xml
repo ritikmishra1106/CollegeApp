@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/navigation_video"
+        android:title="@string/videoLectures"
+        android:icon="@drawable/youtube"
+        />
+    <item android:id="@+id/navigation_Notes"
+        android:title="@string/Notes_Assignments"
+        android:icon="@drawable/notebook"
+        />
+    <item android:id="@+id/navigation_Quantum"
+        android:title="@string/Quantum_Series"
+        android:icon="@drawable/quantum"
+        />
+    <item android:id="@+id/navigation_Erp"
+        android:title="@string/AKTU_ERP"
+        android:icon="@drawable/ic_login"
+        />
+    <item android:id="@+id/navigation_Result"
+        android:title="@string/AKTU_ERP"
+        android:icon="@drawable/mission"
+        />
+    <item android:id="@+id/navigation_theme"
+        android:title="@string/Themes"
+        android:icon="@drawable/theme"
+        />
+    <item android:id="@+id/navigation_website"
+        android:title="@string/Website"
+        android:icon="@drawable/website"
+        />
+    <item android:id="@+id/navigation_share"
+        android:title="@string/Share"
+        android:icon="@drawable/share"
+        />
+    <item android:id="@+id/navigation_rate"
+        android:title="@string/Rate_Us"
+        android:icon="@drawable/rate"
+        />
+    <item android:id="@+id/navigation_developer"
+        android:title="@string/Developer"
+        android:icon="@drawable/developer"
+        />
+
+</menu>
